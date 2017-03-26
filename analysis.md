@@ -924,7 +924,7 @@ result.auc
     ##   normal.auc  over.auc under.auc   mix.auc  rose.auc
     ## 1  0.9028721 0.9380361 0.9381045 0.9380361 0.9190395
 
-###### In this case over and under sampling gives the best AUC values.
+###### In this case over, under and mix sampling gives the best AUC values.
 
 Conclusion
 ----------
